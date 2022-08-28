@@ -1,0 +1,18 @@
+/* Utility class means in only one line more than one classes are there */
+/* main css you cannot access by util.css */
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
